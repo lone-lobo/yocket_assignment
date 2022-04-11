@@ -23,3 +23,5 @@ Read the https://github.com/lone-lobo/yocket_assignment/blob/main/Automation%20T
  7. check if we are on proper page before moving to next
  8. handle zero result output , for random inputs if no matching university found 
 
+### Enhancements 
+ 1. signup / login into yocket using appium mobile automation for wide results
