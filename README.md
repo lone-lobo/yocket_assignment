@@ -5,7 +5,8 @@ the basic idea was to use selenium and with python to autoamte the webactions of
 
 
 ## Setting up the environment 
-pip install -U selenium
+pip install -U selenium 
+
 pip install jupyter lab / jupyter notebook
 
 #### start the jupyter lab / jupyter notebook through command prompt
